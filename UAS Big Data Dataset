@@ -1,0 +1,16 @@
+driver_id,rating,age,gender,income
+driver001,1,28,Female,1 to 5
+driver001,5,30,Male,5 to 10
+driver001,2,18,Female,10 to 15
+driver001,3,40,Male,5 to 10
+driver001,5,30,Female,10 to 15
+driver002,3,28,Female,1 to 5
+driver002,2,30,Male,5 to 10
+driver002,5,18,Female,10 to 15
+driver002,4,40,Male,5 to 10
+driver002,1,30,Female,10 to 15
+driver003,1,28,Female,1 to 5
+driver003,4,30,Male,5 to 10
+driver003,2,18,Female,10 to 15
+driver003,2,40,Male,5 to 10
+driver003,5,30,Female,10 to 15
